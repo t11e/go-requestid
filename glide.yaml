@@ -1,0 +1,11 @@
+package: github.com/t11e/go-requestid
+import:
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert
+- package: golang.org/x/net
+  subpackages:
+  - context
+- package: github.com/jmcvetta/randutil
+- package: github.com/rs/xhandler
+- package: github.com/t11e/go-ctxlog

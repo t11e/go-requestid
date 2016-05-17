@@ -1,0 +1,20 @@
+hash: d2d9caee7eba3dbde8f64a674b1701013fdd333aee590dd30721cba6b9181cd5
+updated: 2016-05-17T12:18:40.95240303-04:00
+imports:
+- name: github.com/jmcvetta/randutil
+  version: 2bb1b664bcff821e02b2a0644cd29c7e824d54f8
+- name: github.com/op/go-logging
+  version: 970db520ece77730c7e4724c61121037378659d9
+- name: github.com/rs/xhandler
+  version: d9d9599b6aaf6a058cb7b1f48291ded2cbd13390
+- name: github.com/stretchr/testify
+  version: 6cb3b85ef5a0efef77caef88363ec4d4b5c0976d
+  subpackages:
+  - assert
+- name: github.com/t11e/go-ctxlog
+  version: 3a4c2dec10ba346a1e917a9aef0484629ac00ac9
+- name: golang.org/x/net
+  version: ef00b378c73f107bf44d5c9b69875255ce89b79a
+  subpackages:
+  - context
+devImports: []
