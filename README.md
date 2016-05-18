@@ -1,5 +1,7 @@
 # go-requestid
 
+[![Build Status](https://semaphoreci.com/api/v1/projects/bc0f95e5-c45d-45e7-b5b2-f3e868d01793/814693/badge.svg)](https://semaphoreci.com/t11e/go-requestid)
+
 Context aware unique request ID management.
 
 The request ID can serve as a useful tracer bullet when diagnosing issues in a distributed system.
